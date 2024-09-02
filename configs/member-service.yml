@@ -80,5 +80,5 @@ springdoc:
     path: /apidocs.html
     disable-swagger-default-url: true
   paths-to-match:
-    - /api/**
+    - /**
 
